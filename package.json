@@ -1,0 +1,16 @@
+{
+  "name": "balloon-detector",
+  "version": "0.0.0",
+  "description": "Detects balloons in a given PNG image string, and returns its position relative to the center.  Assumes image width 640 pixels.",
+  "main": "analyze.js",
+  "dependencies": {
+    "png-js": "~0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
